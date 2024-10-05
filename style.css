@@ -1,0 +1,32 @@
+.one-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50% ;
+    background-color:white;
+    object-fit: cover;
+}
+.two-img{
+    height: 60px;
+    width: 80px;
+    object-fit: cover;
+
+}
+.nav-item a{
+    color: white;
+}
+.b-br{border: 2px solid blue;}
+.backimg{
+    
+    background: url('WhatsApp\ Image\ 2024-10-05\ at\ 19.13.48.jpeg');
+  
+ 
+    background-size: cover;
+    height: 100vh;
+}
+
+.bg-wg {
+    height: 100%;
+    margin-left: -20px;
+    background: rgb(11,10,13);
+    background: linear-gradient(90deg, rgba(11,10,13,0.9947160993303571) 0%, rgba(14,5,5,0.9975172197785365) 42%, rgba(14,14,14,0.022727303812149824) 100%);;
+}
